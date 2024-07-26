@@ -1,5 +1,10 @@
 package com.virgingames.constant;
 
+
+/**
+ * Created by Priyanka
+ */
+
 public class EndPoints {
     /**
      * This is Endpoints of Bingo api
